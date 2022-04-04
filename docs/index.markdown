@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+<img src="./images/idx_header.jpg" style="width: 100%; height: auto">

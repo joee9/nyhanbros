@@ -21,7 +21,6 @@
 title: Nyhan Bros.
 email: >- 
   joe@nyhanbros.com
-  griffin@nyhanbros.com
 description: >- # this means to ignore newlines until "baseurl:"
   A family fly-fishing affair. Follow Griffin and Joe through
   their individual and collective fishing achievements!
@@ -29,6 +28,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: www.nyhanbros.com
 url: https://www.nyhanbros.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
+instagram_username: nyhanbros
 github_username: joee9
 
 # Build settings
